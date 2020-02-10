@@ -5,11 +5,11 @@ Si tratta di un kit coordinato di componenti a riuso selezionato dall’Agenzia 
 
 Il kit si compone di:
 
-1. Documentazione complessiva di progetto
+## Documentazione complessiva di progetto
 
-2. Linee guida e modelli di tipo organizzativo/metodologico su:
- - catalogazione dei servizi secondo il paradigma "esigenze/servizi"
- - creazione della modulistica compilabile dei servizi online
+## Linee guida e modelli di tipo organizzativo/metodologico su:
+  - catalogazione dei servizi secondo il paradigma "esigenze/servizi"
+  - creazione della modulistica compilabile dei servizi online
  - processo per la digitalizzazione dei servizi
  - uso di un linguaggio efficace
  - meccanismi di interoperabilità con:
@@ -18,7 +18,7 @@ Il kit si compone di:
   - l'APP “IO”
   - il catalogo servizi AGID
 
-3. Software a riuso pubblicato su Developers Italia per: 
+## Software a riuso pubblicato su Developers Italia per: 
  - catalogare e pubblicare i servizi offerti in forma strutturata secondo le linee guida del Team Digitale (Catalogo dei servizi); 
  - creare il codice dei moduli compilabili per il prodotto a licenza "sportello telematico" di Globo Srl (Validator devel)
  - compilare online le istanze per avviare un procedimento (Moduli online); 
