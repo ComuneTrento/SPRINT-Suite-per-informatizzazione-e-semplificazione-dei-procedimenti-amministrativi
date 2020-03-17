@@ -1,15 +1,16 @@
 # SPRINT
-SPRINT è l'acronimo di "Sportello Polifunzionale Riusabile, INnovativo e Telematico". 
+SPRINT è una suite completa per l'informatizzazione e la semplificazione dei procedimenti amministrativi.
 
-Si tratta di un kit coordinato di componenti a riuso selezionato dall’Agenzia di coesione territoriale come eccellenza e buona pratica per l’informatizzazione e la semplificazione dei procedimenti amministrativi.
+È anche l'acronimo di "Sportello Polifunzionale Riusabile, INnovativo e Telematico", che ha dato il nome a un progetto PON-GOV di riuso selezionato dall’Agenzia di coesione territoriale come eccellenza e buona pratica proprio per l’informatizzazione e la semplificazione dei procedimenti amministrativi. 
 
-Il kit si compone di:
+Si parla di Suite, perché è  stato sviluppato e rilasciato un kit coordinato di componenti a riuso, composto da: 
 - Documentazione complessiva della soluzione
 - Linee guida e modelli di tipo organizzativo/metodologico 
 - Software a riuso pubblicato su Developers Italia
 
 ## Documentazione complessiva della soluzione
 La soluzione adottata dal Comune di Trento e selezionata come buona pratica a livello nazionale, prevede di utilzzare una visione d'insieme per l'informatizzazione e la semplificazione dei propri procedimenti.
+
 Questa soluzione prevede di:
  - definire una serie di azioni necessarie da adottare
  - individuare un insieme di elementi idonei a svolgere le singole azioni (sia a riuso che a licenza)
